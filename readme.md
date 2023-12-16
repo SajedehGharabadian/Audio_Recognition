@@ -17,4 +17,7 @@
 pip insatll -r requirements.txt
 ```
 
-
+## How to run
+```
+ipython create_dataset.ipynb
+```
